@@ -21,3 +21,4 @@ The Save Water Campaign webpage serves as a platform for spreading awareness abo
 3. Take note of the water-saving practices and strategies recommended.
 4. Share the webpage with others to spread awareness about water conservation and inspire action.
 
+![image](https://github.com/Adityas266/Save_Water/assets/108875499/6320b0ac-66f4-40d0-9c2b-525df4d7f660)
