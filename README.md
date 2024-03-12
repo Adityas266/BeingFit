@@ -1,10 +1,10 @@
 # Save Water Campaign
 
-This project is a simple HTML and CSS webpage promoting water conservation and raising awareness about the importance of saving water.
+💧 This project is a simple HTML and CSS webpage promoting water conservation and raising awareness about the importance of saving water.
 
 ## Overview
 
-The Save Water Campaign webpage serves as a platform for spreading awareness about water conservation practices and encouraging individuals to take action to save water. It provides informative content, tips, and resources related to water conservation, aiming to inspire positive change in water usage habits.
+🌊 The Save Water Campaign webpage serves as a platform for spreading awareness about water conservation practices and encouraging individuals to take action to save water. It provides informative content, tips, and resources related to water conservation, aiming to inspire positive change in water usage habits.
 
 ## Features
 
@@ -20,5 +20,6 @@ The Save Water Campaign webpage serves as a platform for spreading awareness abo
 2. Explore the informative content, tips, and suggestions provided on the webpage.
 3. Take note of the water-saving practices and strategies recommended.
 4. Share the webpage with others to spread awareness about water conservation and inspire action.
+
 
 ![image](https://github.com/Adityas266/Save_Water/assets/108875499/6320b0ac-66f4-40d0-9c2b-525df4d7f660)
